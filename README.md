@@ -5,3 +5,4 @@ TECHNOLOGIES USED:
 HTML, vanillajs.
 
 CHECK OUT THE APP HERE:
+https://serene-banana.netlify.app/
